@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 👋 Hi, I’m @Jacques8787 (Jake Egelhoff)
+
 👀 Based in Asia  
 🌱 I'm studying e-commerce and Shopify development  
 💞️ I’m looking to collaborate on interesting projects  
